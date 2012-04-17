@@ -1,0 +1,14 @@
+#For the string Hello, Ruby find the index of Ruby
+
+"Hello, Ruby".index("Ruby")
+
+#Print your name 10 times
+
+10.times { puts "Amalia" }
+
+#Print the sentence "this is the sentence number 1" , where the number 1 changes from 1 to 10
+
+(1..10).each { |e| puts 'This is the sentence number, ' + e.to_s }
+
+
+
